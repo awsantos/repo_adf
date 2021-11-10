@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-alexandre",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "197ad8df-1d66-4049-8ef4-7af6603bc628",
+		"tenantId": "4c1ba77b-b289-4c3c-8c89-47078c851060"
+	}
+}
